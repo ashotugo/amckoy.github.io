@@ -12,6 +12,9 @@ description: " "
 permalink: cloud-migration
 ---
 
+![Picture of Report](assets/images/EventJourney.png.png)
+<figcaption class="caption">Event Managenent Journey</figcaption>
+
 ## Background
 
 The product team was exploring how multiple applications could merge into a new experience for customers managing events that affect their business.
@@ -122,13 +125,36 @@ The rubric helped product teams determine whether communications were sufficient
 
 ---
 
-### 3. Telemetry & Behavioral Data
+### Telemetry & Behavioral Data
 
-Used telemetry volume,
+Used telemetry volume, including retirement-related support-ticket volume, to understand the scale and nature of customer problems.
 
-## Result
+This allowed qualitative research and behavioral data to complement one another:
 
-![Picture of Report](assets/images/Usability_report.png)
-<figcaption class="caption">High level usability report</figcaption>
+Customer insight + Behavioral evidence → Stronger understanding of the problem
+
+### Agentic Workflow Opportunities
+
+The research identified opportunities to trigger agentic workflows at specific points in the customer journey.
+
+The point was not simply that "AI could help."
+
+The research identified where AI and agents could meaningfully intervene in the customer journey based on observed needs and decision points.
+
+### Research MCP Server
+
+Research outputs were structured and made available through a research MCP server so product teams could embed research knowledge into AI workflows.
+
+Research was transformed from a static deliverable into reusable knowledge that could be accessed by product and AI workflows.
+
+This created a path for research findings to become part of ongoing product and AI decision-making rather than remaining a one-time research artifact.
+
+### Executive Communication
+
+Research findings were presented to VP-level stakeholders, translating customer evidence into frameworks and product strategy.
+
+
+
+
 
 
