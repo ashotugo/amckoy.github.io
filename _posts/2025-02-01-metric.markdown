@@ -12,7 +12,7 @@ description: " "
 permalink: ux-measurement
 ---
 
-![Picture of Report](assets/images/GetFeedback.png)
+![Picture of Report](assets/images/Getfeedback.png)
 <figcaption class="caption">Portal Feedback Entrypoint</figcaption>
 
 ## Research Goal
