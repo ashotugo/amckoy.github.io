@@ -12,7 +12,7 @@ description: " "
 permalink: oncall-eng
 ---
 
-![Picture of Report](assets/images/OCEJOURNEY.png)
+![Picture of Report](assets/images/OCEJourney.png)
 <figcaption class="caption">On-call Engineer Journey</figcaption>
 
 ## Context
