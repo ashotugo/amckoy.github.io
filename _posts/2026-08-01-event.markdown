@@ -105,6 +105,9 @@ The research produced several important product outputs.
 
 ### 1. Information Needs Framework
 
+![Picture of Report](assets/images/Framework.png)
+<figcaption class="caption">Communication Framework</figcaption>
+
 Developed a framework describing the information customers need throughout the event-management journey.
 
 **Outcome:** Created a reusable framework that helped product teams understand what information customers need at different points in the decision-making process.
@@ -112,6 +115,9 @@ Developed a framework describing the information customers need throughout the e
 ---
 
 ### 2. Communication Evaluation Rubric
+
+![Picture of Report](assets/images/AIRubric.png)
+<figcaption class="caption">AI Rubric</figcaption>
 
 Created a rubric for evaluating the quality of customer communications.
 
