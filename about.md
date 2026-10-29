@@ -10,4 +10,4 @@ I currently work as a UX Researcher at Microsoft. I have experience in mixed-met
 
 <h2>Resume</h2>
 <ul>
-	<li><a href="/assets/docs/AshleyMcKoyResume2026.pdf">PDF</a>, 48kb
+	<li><a href="/amckoy.github.io/assets/docs/AshleyMcKoyResume2026.pdf">PDF</a>, 48kb
