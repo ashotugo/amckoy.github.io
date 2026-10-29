@@ -9,10 +9,10 @@ tag:
 projects: true
 author: Ashley McKoy
 description: " "
-permalink: cloud-migration
+permalink: event-management
 ---
 
-![Picture of Report](assets/images/EventJourney.png.png)
+![Picture of Report](assets/images/EventJourney.png)
 <figcaption class="caption">Event Managenent Journey</figcaption>
 
 ## Background
