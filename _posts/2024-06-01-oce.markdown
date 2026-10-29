@@ -1,0 +1,137 @@
+---
+title: "Day in the Life of a On-call Engineer | Microsoft"
+layout: post
+date: 2024-06-01 16:25
+tag:
+- enterprise research
+- journey mapping
+- qualitative research
+projects: true
+author: Ashley McKoy
+description: " "
+permalink: oncall-eng
+---
+
+![Picture of Report](assets/images/OCEJOURNEY.png)
+<figcaption class="caption">On-call Engineer Journey</figcaption>
+
+## Context
+
+Microsoft/Azure invests approximately **$34M in on-call engineering (OCE) effort**.
+
+The research question was:
+
+> **Where are engineers spending their time during incident response, and where are the biggest opportunities to reduce operational burden?**
+
+Use the **$34M** figure prominently as a contextual metric.
+
+---
+
+## Research Strategy
+
+Rather than studying incident response abstractly, I focused the research on:
+
+- Core Azure services
+- Services experiencing the most outages
+- A specific service, including SQL Database
+- Engineers with recent live-site/on-call experience
+- A single real incident
+
+### Why Focus on a Real Incident?
+
+Rather than asking engineers to describe their entire incident-response experience from memory, I used a recent live incident to reconstruct the end-to-end journey.
+
+> **A real incident provided a concrete anchor for understanding where time, effort, and coordination were required.**
+
+---
+
+## Research Method
+
+**Recent incident**  
+→  
+**Engineer interview**  
+→  
+**Incident reconstruction**  
+→  
+**Journey mapping**  
+→  
+**Time / effort analysis**  
+→  
+**Pain points**  
+→  
+**Cross-org opportunities**
+
+---
+
+## Journey Map
+
+Potential stages include:
+
+- Detection
+- Investigation
+- Diagnosis
+- Coordination
+- Mitigation
+- Communication
+- Recovery
+- Follow-up
+
+---
+
+## Key Insight
+
+The research identified **where the greatest amount of engineering time was being spent during the incident journey**.
+
+Make this the centerpiece of the case study.
+
+### From Time to Opportunity
+
+**Where engineers spend time**  
++  
+**Why they spend time there**  
++  
+**What organizational / product changes could reduce that burden**
+
+This moved the conversation beyond simply documenting pain points toward identifying opportunities to reduce operational burden.
+
+---
+
+## Cross-Org Action
+
+One important outcome was assigning PMs across the organization to address specific pain points.
+
+Show this visually:
+
+**Pain point**  
+→  
+**Owning team**  
+→  
+**PM**  
+→  
+**Product opportunity**
+
+The research exposed problems that could not be solved by one team alone.
+
+The research therefore became a **mechanism for coordinating work across the organization**.
+
+---
+
+## Strategic Takeaway
+
+> **The research turned a complex, distributed incident-response experience into a concrete set of opportunities with owners across the organization.**
+
+---
+
+## Research Impact
+
+- Identified where engineering time was concentrated
+- Created an end-to-end view of the DRI journey
+- Grounded findings in a real incident
+- Identified actionable pain points
+- Connected pain points to PM owners
+- Highlighted opportunities requiring cross-org collaboration
+- Connected UX research to a significant operational cost
+
+
+
+
