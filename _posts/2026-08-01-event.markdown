@@ -1,1 +1,134 @@
+---
+title: "Building the Cloud Event Management Experience | Microsoft"
+layout: post
+date: 2026-08-01 16:25
+tag:
+- enterprise UX
+- mixed-methods
+- AI/Agentic Workflows
+projects: true
+author: Ashley McKoy
+description: " "
+permalink: cloud-migration
+---
+
+## Background
+
+The product team was exploring how multiple applications could merge into a new experience for customers managing events that affect their business.
+The initial ask was essentially:
+Multiple applications are coming together. What should the new experience be?
+The research challenge was to first get clear on the underlying customer problem rather than prematurely designing the solution.
+
+## Research opportunity
+
+Personas included Azure customers across industries, including Finance, Healthcare, and Entertainment:
+
+The research team hypothesized that customers operating their businesses on Azure follow a similar decision-making model when responding to events that impact their business.
+
+## Research Program
+
+This was a **series of studies designed to progressively build knowledge about the customer and the scenario.**
+
+### Scenarios
+
+- Troubleshooting
+- Outages
+- Service retirements
+- Proactive resilience
+
+### Research Program
+
+**Persona → Scenario → Decision-making → Information needs → Experience opportunities**
+
+---
+
+## Research Question
+
+The research evolved from a product-focused question to a customer-centered research question.
+
+### Initial Product Question
+
+> What should the new merged experience look like?
+
+↓
+
+### Better Research Question
+
+> How do IT administrators make decisions when cloud events affect their business, and what information do they need at each point in that journey?
+
+This distinction was important because it shifted the focus from **designing a new experience** to understanding the **underlying customer decision-making process**.
+
+---
+
+## Hypothesis
+
+Customers operating their business on Azure follow a similar decision model when responding to business-impacting events.
+
+The research supported this hypothesis.
+
+However, an important nuance emerged:
+
+> **Criticality and business impact determine urgency.**
+
+This became a major insight from the research.
+
+The experience therefore shouldn't simply respond to the **type of event**. It needs to understand the customer's **situation, impact, and urgency**.
+
+---
+
+## Research Synthesis
+
+The research produced a conceptual decision framework describing how customers navigate business-impacting cloud events:
+
+**Event occurs**  
+↓  
+**Assess impact**  
+↓  
+**Determine criticality**  
+↓  
+**Understand what happened**  
+↓  
+**Determine what action is needed**  
+↓  
+**Take action**  
+↓  
+**Monitor / recover / prevent recurrence**
+
+---
+
+## Research Outputs
+
+The research produced several important product outputs.
+
+### 1. Information Needs Framework
+
+Developed a framework describing the information customers need throughout the event-management journey.
+
+**Outcome:** Created a reusable framework that helped product teams understand what information customers need at different points in the decision-making process.
+
+---
+
+### 2. Communication Evaluation Rubric
+
+Created a rubric for evaluating the quality of customer communications.
+
+The rubric helped product teams determine whether communications were sufficiently:
+
+- **Relevant**
+- **Clear**
+- **Actionable**
+- **Timely**
+- **Appropriate to the customer's situation**
+
+---
+
+### 3. Telemetry & Behavioral Data
+
+Used telemetry volume,
+
+## Result
+
+![Picture of Report](assets/images/Usability_report.png)
+<figcaption class="caption">High level usability report</figcaption>
+
 
