@@ -1,0 +1,121 @@
+---
+title: "Building a UX Measurement Program for Azure | Microsoft"
+layout: post
+date: 2025-02-01 16:25
+tag:
+- metrics
+- automation
+- insights2action
+projects: true
+author: Ashley McKoy
+description: " "
+permalink: ux-measurement
+---
+
+![Picture of Report](assets/images/GetFeedback.png)
+<figcaption class="caption">Portal Feedback Entrypoint</figcaption>
+
+## Research Goal
+
+The goal was to understand how customers experienced the service and continuously bring the voice of the customer into product conversations.
+
+---
+
+## Research / Measurement Framework
+
+Show the relationship between:
+
+**Customer Effort Score (CES)**  
++  
+**Customer Value / Value Assessment (CVA)**  
++  
+**CSAT**  
++  
+**In-context communication feedback**  
+
+
+![Picture of Report](assets/images/CESCVA.png)
+<figcaption class="caption">CES CVA SURVEY</figcaption>
+
+The value came from combining multiple signals to understand both **what customers experienced** and **why**.
+
+---
+
+## What I Built
+
+I personally:
+
+- Built the data query
+- Built the automation workflow
+- Created a daily digest
+- Sent customer feedback into the team's shared inbox
+
+### Measurement Workflow
+
+**Customer feedback**  
+→  
+**Query**  
+→  
+**Automated workflow**  
+→  
+**Daily digest**  
+→  
+**Team discussion**  
+→  
+**Product action**
+
+---
+
+## Impact
+
+The program generated high engagement and sparked product strategy conversations.
+
+### The Unexpected Insight
+
+Customer feedback included **billing-related issues**.
+
+This revealed that the Service Health team was receiving feedback about a customer problem that involved another organization.
+
+This led to:
+
+**Feedback**  
+→  
+**Unexpected problem**  
+→  
+**Identify missing stakeholder**  
+→  
+**Engage billing team**
+
+### Key Customer Problem
+
+**Impacted resources emerged as the #1 customer problem.**
+
+---
+
+## Strategic Impact
+
+The measurement program helped shift the team's thinking from:
+
+> **"What did customers say?"**
+
+to:
+
+> **"What customer problems should influence our product vision?"**
+
+The program connected customer feedback, UX measurement, and behavioral data to broader product strategy.
+
+---
+
+## What Changed Because of the Program?
+
+The value of the measurement program was not the metrics themselves.
+
+It was creating a **continuous mechanism for customer evidence to influence product decisions**.
+
+**Customer evidence → Measurement → Insight → Product strategy → Action**
+
+
+
+
+
+
