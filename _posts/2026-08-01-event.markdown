@@ -117,7 +117,7 @@ Developed a framework describing the information customers need throughout the e
 ### 2. Communication Evaluation Rubric
 
 ![Picture of Report](assets/images/AIRubric.png)
-<figcaption class="caption">AI Rubric</figcaption>
+<figcaption class="caption">Sample AI Rubric</figcaption>
 
 Created a rubric for evaluating the quality of customer communications.
 
