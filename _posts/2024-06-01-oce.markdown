@@ -23,8 +23,6 @@ The research question was:
 
 > **Where are engineers spending their time during incident response, and where are the biggest opportunities to reduce operational burden?**
 
-Use the **$34M** figure prominently as a contextual metric.
-
 ---
 
 ## Research Strategy
@@ -47,25 +45,13 @@ Rather than asking engineers to describe their entire incident-response experien
 
 ## Research Method
 
-**Recent incident**  
-→  
-**Engineer interview**  
-→  
-**Incident reconstruction**  
-→  
-**Journey mapping**  
-→  
-**Time / effort analysis**  
-→  
-**Pain points**  
-→  
-**Cross-org opportunities**
+**Recent incident**  →  **Engineer interview**  →  **Journey mapping**  →  **Pain points**  →  **Cross-org opportunities**
 
 ---
 
 ## Journey Map
 
-Potential stages include:
+Stages included:
 
 - Detection
 - Investigation
@@ -82,8 +68,6 @@ Potential stages include:
 
 The research identified **where the greatest amount of engineering time was being spent during the incident journey**.
 
-Make this the centerpiece of the case study.
-
 ### From Time to Opportunity
 
 **Where engineers spend time**  
@@ -99,16 +83,6 @@ This moved the conversation beyond simply documenting pain points toward identif
 ## Cross-Org Action
 
 One important outcome was assigning PMs across the organization to address specific pain points.
-
-Show this visually:
-
-**Pain point**  
-→  
-**Owning team**  
-→  
-**PM**  
-→  
-**Product opportunity**
 
 The research exposed problems that could not be solved by one team alone.
 
