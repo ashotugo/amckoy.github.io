@@ -23,8 +23,6 @@ The goal was to understand how customers experienced the service and continuousl
 
 ## Research / Measurement Framework
 
-Show the relationship between:
-
 **Customer Effort Score (CES)**  
 +  
 **Customer Value / Value Assessment (CVA)**  
@@ -52,17 +50,7 @@ I personally:
 
 ### Measurement Workflow
 
-**Customer feedback**  
-→  
-**Query**  
-→  
-**Automated workflow**  
-→  
-**Daily digest**  
-→  
-**Team discussion**  
-→  
-**Product action**
+**Customer feedback**  →   **Trigger Automated workflow**  →  **Daily digest**  →  **Team discussion**  →  **Product action**
 
 ---
 
@@ -75,16 +63,6 @@ The program generated high engagement and sparked product strategy conversations
 Customer feedback included **billing-related issues**.
 
 This revealed that the Service Health team was receiving feedback about a customer problem that involved another organization.
-
-This led to:
-
-**Feedback**  
-→  
-**Unexpected problem**  
-→  
-**Identify missing stakeholder**  
-→  
-**Engage billing team**
 
 ### Key Customer Problem
 
